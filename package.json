@@ -1,0 +1,19 @@
+{
+  "name": "site-of-qfang",
+  "version": "1.0.0",
+  "description": "site of mr.qfang, by gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitbook",
+    "fe",
+    "story"
+  ],
+  "author": "mr.qfang",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook": "^3.2.0"
+  }
+}
